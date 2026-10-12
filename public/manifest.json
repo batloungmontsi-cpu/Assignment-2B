@@ -1,0 +1,16 @@
+{
+  "short_name": "Discover Lesotho",
+  "name": "Discover Lesotho | The Mountain Kingdom",
+  "icons": [
+    {
+      "src": "lesotho-mark.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#173d32",
+  "background_color": "#f4f2e9"
+}
